@@ -32,7 +32,7 @@ To develop a data-driven dashboard that enables stakeholders to explore and unde
 
 ## 📈 Dashboard Preview
 
-![Environmental Dashboard]![Dashboard Preview](https://github.com/narpatganwliya7/Global-Air-Pollution-Report-Dashboard/raw/main/Global Air Pollution Report Dashboard.png)
+![Environmental Dashboard]![Dashboard Preview](https://github.com/narpatganwliya7/Global-Air-Pollution-Report-Dashboard/raw/main/Global_Air_Pollution_Report_Dashboard.png)
 
 ---
 
